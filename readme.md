@@ -113,15 +113,18 @@ Built interactive dashboards to visualize business performance and customer tren
 
 ### Executive Overview Dashboard
 
-![Executive Overview](Dashboards/Executive_Overview_Dashboard.png)
+<img width="1303" height="746" alt="Executive Overview Dashboard" src="https://github.com/user-attachments/assets/1950795f-ba25-485d-8b1c-c6cc5ccc4170" />
+
 
 ### Customer Insights Dashboard
 
-![Customer Insights](Dashboards/Customer_Insights_Dashboard.png)
+<img width="1294" height="728" alt="Customer Insights Dashboard" src="https://github.com/user-attachments/assets/19390997-7139-467b-898d-0af9dbd7c012" />
+
 
 ### Product & Sales Dashboard
 
-![Product Sales](Dashboards/Product_Sales_Dashboard.png)
+<img width="1284" height="714" alt="Product   Sales Dashboard" src="https://github.com/user-attachments/assets/e17b8424-d90e-4951-a684-f8ba066016cc" />
+
 
 ---
 
@@ -149,4 +152,3 @@ LinkedIn: http://www.linkedin.com/in/kamarthapu-tejaswini
 ---
 
 ⭐ If you found this project useful, please consider starring the repository.
-<img width="1303" height="746" alt="Executive Overview Dashboard" src="https://github.com/user-attachments/assets/5c338d08-9f4d-4051-b09a-871d4262ccb4" />
